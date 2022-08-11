@@ -4,7 +4,9 @@
 
 .back {
     font-size: 12pt;
-    text-align: justify;
+    display: block;
+    text-align: start;
+    font-family: "Arial Black";
 }
 
 h4 {
