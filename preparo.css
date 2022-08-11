@@ -1,17 +1,13 @@
-* {
-    text-align: center;
-}
-
 .back {
     font-size: 12pt;
     display: block;
-    text-align: start;
+    text-align:end;
     font-family: "Arial Black";
 }
 
 h4 {
     font-size: 20pt;
-    font-family: Arial;
+    font-family: Arial;;
 }
 
 p {
@@ -24,4 +20,8 @@ li {
     margin-top: 10px;
     font-family: Arial;
     list-style-position: inside;
+}
+
+img {
+    width:500px;
 }
