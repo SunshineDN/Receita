@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+}
+
+.back {
+    font-size: 12pt;
+    text-align: justify;
+}
+
+h4 {
+    font-size: 20pt;
+    font-family: Arial;
+}
+
+p {
+    font-size: 13pt;
+    font-family: Arial;
+}
+
+li {
+    font-size: 10pt;
+    margin-top: 10px;
+    font-family: Arial;
+    list-style-position: inside;
+}
